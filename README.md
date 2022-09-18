@@ -96,3 +96,4 @@
 |67| Jinying Luo | 04 | JinyingLuo | <https://github.com/JinyingLuo/mywebsite.git> | <https://rowling.netlify.app/> | 2022-09-15 |
 |68| Alberic Teisseire | 09 | Albebe00 | <https://github.com/Albebe00/mywebsite_albebe.git> | <https://albebe-portfolio.netlify.app/> | 2022-09-15 |
 |69| Anastasia Fu | 12 | anaffu | <https://github.com/Albebe00/mywebsite_albebe.git](https://github.com/anaffu/my_website.git> | <https://anastasiafu-portfolio.netlify.app/> | 2022-09-16 |
+|70| San Kashyap | 13 | sankash7 | <https://github.com/sankash7/website> | <https://sankash.netlify.app/> | 2022-09-18 |
